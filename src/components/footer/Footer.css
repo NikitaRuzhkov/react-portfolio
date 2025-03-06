@@ -69,3 +69,12 @@
     margin-top: 30px;
     padding: 0 15px;
 }
+
+@media(max-width:980px) {
+    .footer-wrapper {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .info-group {}
+}
