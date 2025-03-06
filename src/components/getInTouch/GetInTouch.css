@@ -86,3 +86,10 @@
     }
 
 }
+
+@media (max-width:400px) {
+    .get-in-touch .contact-card {
+        padding: 30px;
+    }
+
+}
